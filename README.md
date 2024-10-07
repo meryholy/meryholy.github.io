@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 # 🌸 Hello 🌸
 
 <p align="center">
@@ -8,7 +10,5 @@
 
 <p align="center">
   **Our beautiful website is currently under construction.**  
-  Stay tuned for something elegant and inspiring! 🌷
+  Stay tuned for something elegant and inspiring! 🌹
 </p>
-
----
